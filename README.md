@@ -1,4 +1,5 @@
-# Ml_Course_Project
+# Analysis of Mexican-Tourist-Profiles
+
 
 ```bash
 Mexican Tourist Profiles/
